@@ -10,8 +10,8 @@
     "license": "ISC",
     "dependencies": {
       "colors": "1.2.4",
-      "express": "4.21.2",
-      "lodash": "4.17.21",
+      "express": "4.22.0",
+      "lodash": "4.17.23",
       "mongoose": "6.13.6",
       "request": "2.88.2"
     }
